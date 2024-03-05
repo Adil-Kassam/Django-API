@@ -17,8 +17,6 @@ Creation of a RESTful API: Through Django and TastyPie, we develop an API capabl
 Simplified API Development: The project illustrates how Django streamlines the process of API development, providing a robust framework for creating web services.
 
 
-Hands-On Learning: Designed for learners with varying levels of expertise, the project offers practical insights into building APIs using Python and Django.
-
 
 ## Key Features:
 
